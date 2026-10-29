@@ -108,6 +108,27 @@ I enjoy developing reliable, responsive, and scalable applications while improvi
 - Worked on Flutter mobile applications and backend integrations.
 - Assisted with database migrations, backups, troubleshooting, and application maintenance.
 
+  
+### PHP Developer
+**Sram & Mr am Resources Pvt Ltd — Chennai, India**  
+*June 2017 – November 2017*
+
+- Developed and maintained backend modules using Core PHP and MySQL, ensuring secure data processing, database integrity, and application reliability.
+- Collaborated with frontend developers to integrate backend functionality and deliver dynamic, database-driven web applications.
+- Performed application debugging, testing, troubleshooting, and deployment to ensure functionality, stability, and performance.
+- Optimized MySQL queries and database operations to improve application performance and data handling efficiency.
+- Worked with WordPress and PrestaShop CMS, including theme customization, backend integration, and website maintenance.
+
+### Junior Web Developer
+**Sky10 Social Media Pvt Ltd — Chennai, India**  
+*June 2016 – June 2017*
+
+- Developed and maintained backend modules using Core PHP and MySQL for web and mobile applications.
+- Developed and integrated RESTful APIs to connect frontend websites and mobile applications with backend systems.
+- Customized OpenCart themes and integrated modules to extend e-commerce functionality and meet project requirements.
+- Developed and maintained static and dynamic websites using clean coding practices, responsive layouts, and cross-browser compatibility standards.
+
+
 ### Previous Web Development Roles
 
 - Developed and maintained static and dynamic websites using Core PHP and MySQL.
