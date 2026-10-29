@@ -133,8 +133,8 @@ I enjoy developing reliable, responsive, and scalable applications while improvi
 
 ## 📫 Connect With Me
 
-- **GitHub:** [github.com/amjathk](https://github.com/amjathk)
-- **LinkedIn:**www.linkedin.com/in/amjath-khan-h/
+- **GitHub:** (https://github.com/amjathk/full-stack-developer-portfolio)
+- **LinkedIn:** www.linkedin.com/in/amjath-khan-h/
 - **Email:** Add your professional email address here.
 
 ---
